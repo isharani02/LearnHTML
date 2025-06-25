@@ -40,5 +40,35 @@ Syntax:
 <h4>This is a Sub-Subheading</h4>
 <h5>This is a Minor Subheading</h5>
 <h6>This is the Smallest Heading</h6>
-```
+````
+
+## Paragraph
+
+````html
+<!-- A paragraph in HTML is simply a block of text enclosed within the <p> tag. -->
+Syntax:
+  <p> Some Content... </p>
+
+  <!-- Paragraph tags -->
+    <p>This is a paragraph tag. </p>
+    <p> The paragraph tag helps divide content into manageable, readable sections. .</p>
+````
+
+## Break 
+
+````html
+<!-- Break tag -->
+
+<!-- The HTML <br> tag element creates a line break, giving you a new line without starting a new paragraph. 
+Use <br> when you want to move to the next line without beginning a whole new paragraph. -->
+
+Syntax:
+   <br>
+
+      <p>
+        This paragraph has multiple
+        <br />lines. But HTML reduces them
+        <br />to a single line, omitting
+        <br />the carriage return we have used.
+     </p>
 ````
